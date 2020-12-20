@@ -1,2 +1,2 @@
 // test
-console.log('hello');
+console.log('CIのテストです');
